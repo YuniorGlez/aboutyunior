@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /*.html
+
+Disallow: /mailer/* /lib/* /js/* /css/* /elements.html /*.json /.* /fonts/* /prepos.cfg /dashboard/assets/* 
