@@ -1,6 +1,6 @@
 {
 	"name": "aboutyunior",
-	"version": "1.0",
+	"version": "0.1.5",
 	"description": "What Yunior love?",
 	"main": "index.js",
 	"scripts": {
