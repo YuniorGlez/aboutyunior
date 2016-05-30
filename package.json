@@ -1,6 +1,6 @@
 {
 	"name": "aboutyunior",
-	"version": "0.1.5",
+	"version": "1.0",
 	"description": "What Yunior love?",
 	"main": "index.js",
 	"scripts": {
@@ -10,7 +10,7 @@
 		"express": "4.13.3"
 	},
 	"engines": {
-		"node": "0.12.7"
+		"node": "latest"
 	},
 	"repository": {
 		"type": "git",
