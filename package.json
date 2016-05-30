@@ -3,6 +3,9 @@
 	"version": "0.1.5",
 	"description": "What Yunior love?",
 	"main": "index.js",
+	"scripts": {
+        "start": "node index.js"
+    },
 	"dependencies": {
 		"express": "4.13.3"
 	},
@@ -14,9 +17,9 @@
 		"url": "https://github.com/YuniorGlez/aboutyunior"
 	},
 	"keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
+		"node",
+		"heroku",
+		"express"
+  	],
 	"license": "YuniorGlez"
 }
